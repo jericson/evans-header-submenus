@@ -9,13 +9,13 @@ Submenu_items:
 |Home, About us, none,/t/about-evans-mechanical-services-inc/20,self
 |Home,Careers,none,/t/careers/19,self
 |Home,Gallery,none,/t/gallery/21,self
-|Services,Roadside Truck and Trailer Repair,none,/t/roadside-truck-and-trailer-repair-services/9,self,Roadside Truck and Trailer Repair
-|Services,Diesel Shop Repair,none,/t/diesel-shop-repair-services/13,self,Diesel Shop Repair
-|Services,Transportation Services, none,/t/transportation-services/14, self, Transportation Services
-|Services,Light Duty Flatbed Towing,none,/t/light-duty-flatbed-towing/15,self,Light Duty Flatbed Towing
-|Medium Duty Towing & Recovery,none,/t/medium-duty-towing-recovery/16,self,Medium Duty Towing & Recovery
-|Heavy Duty Towing,none,/t/heavy-duty-towing/17,self,Heavy Duty Towing
-|Heavy Duty Towing & Recovery,none,/t/heavy-duty-towing-recovery/18,self,Heavy Duty Towing & Recovery"
+|Services,Roadside Truck and Trailer Repair,none,/t/roadside-truck-and-trailer-repair-services/9,self
+|Services,Diesel Shop Repair,none,/t/diesel-shop-repair-services/13,self
+|Services,Transportation Services, none,/t/transportation-services/14, self
+|Services,Light Duty Flatbed Towing,none,/t/light-duty-flatbed-towing/15,self
+|Services,Medium Duty Towing & Recovery,none,/t/medium-duty-towing-recovery/16,self
+|Services,Heavy Duty Towing,none,/t/heavy-duty-towing/17,self
+|Services,Heavy Duty Towing & Recovery,none,/t/heavy-duty-towing-recovery/18,self"
   description:
     en: "Add submenu items. One item per line in this order: Parent, text, icon, URL, target, title.<br><br><b>Parent:</b> the name of the parent menu item which this submenu item show under. Use the `text` value from the list above<br><b>Text:</b> the text that shows for this submenu item.<br><b>Icon:</b> the icon for this submenu item, use `none` if no icon is needed<br><b>URL:</b> the path this menu item links to.<br>You can use relative paths as well.<br><b>Target:</b> Choose whether this item will open in a new tab or in the same tab. Use `blank` to open the link in a new tab, or use `self` to open it in the same tab.<br><b>Title:</b> the text that shows when the item is hovered.<br><b>Dividers:</b> You can also add dividers between submenu items. To add a divider user `parent, divider`"
 Svg_icons:
